@@ -1,8 +1,6 @@
 # hello
 Problem Set 1
 
-# September Repo
+Learning how to **bold** text in a README file and also how to *italicize*.
 
-**Learning Git and Github.**
-
-*Made in class as practice.*
+Also practicing Github and Git mechanics more generally. 
